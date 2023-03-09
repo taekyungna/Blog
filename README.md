@@ -1,6 +1,6 @@
 # Blog
 
-> I'm writing a blog post.
+> 블로그 샘플 예제
 
 
 Blog Link: [imxorud.log](https://velog.io/@imxorud/series)
